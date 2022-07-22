@@ -6,10 +6,15 @@
 Full-Stack Developer in construction 
 
 ### More About me
+
 I'm from Brazil - Minas Gerais  
+
 I started in tecnology in June of 2021. 
+
 My first contact with code it was in January 2021 with C# during my courses in Udemy.
+
 I like to play games in my free time.
+
 Im a bass player.
 
 
