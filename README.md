@@ -20,7 +20,6 @@ Bass player (CHECKMATE!)
 ### Frameworks knowledge:
 - Vue
 - React
-- Scrum
 
 ### Database knowledge:
 - SQL
