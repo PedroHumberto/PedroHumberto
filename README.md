@@ -9,11 +9,7 @@ Latin brazilian guy from Minas Gerais without code in my pocket.
 
 Bass player (CHECKMATE!)
 
-### Languages knowledge:
-- C#
-- JavaScript      
-- HTML | CSS
-- Kotlin 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHumberto)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Frameworks knowledge:
 - Vue
