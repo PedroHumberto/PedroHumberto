@@ -1,7 +1,7 @@
 
 # Welcome to my GitHub profile!
 
-### Systems Analysis and Development Student at <a href="https://www.infnet.edu.br/infnet" target="_blank">INFNET</a> Institute
+### Systems Analysis and Development Former Student at <a href="https://www.infnet.edu.br/infnet" target="_blank">INFNET</a> Institute
 
 Full-Stack Developer in construction 
 
